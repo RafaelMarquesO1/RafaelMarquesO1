@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafael e sou um desenvolvedor Front-End da cidade de Barueri-SP.</p>
+<p align="left">Meu nome é Rafael e sou Programador Web da cidade de Barueri-SP.</p>
 
 ###
 

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aprendendo e construindo projetos desde 2017.<br>📚 Atualmente eu estou aprendendo ReactJS e SQL Server.<br>🎯 Habilidades: Aprendo rápido skills da área de programação.<br>🎲 Curiosidade: Minha primeira linguagem que tive contato direto foi Java.</p>
+<p align="left">✨ Aprendendo e construindo projetos desde 2017.<br>📚 Atualmente eu estou aprendendo ReactJS e SQL Server.<br>🎯 Habilidades: Aprendo de maneira rápida skills da área de programação.<br>🎲 Curiosidade: Minha primeira linguagem que tive contato direto foi Java.</p>
 
 ###
 
